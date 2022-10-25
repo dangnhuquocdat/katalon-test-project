@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Google Test Suite</name>
+   <name>CURA Test Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>4512f2ab-a1b0-48e4-aa69-3d945911eab1</testSuiteGuid>
+   <testSuiteGuid>eb118568-90ca-423c-8bb2-a1925e49b079</testSuiteGuid>
    <testCaseLink>
-      <guid>ca01a387-d2b4-426f-8237-29427f88a83f</guid>
+      <guid>f84301de-87c7-4265-bcc5-637331f8c1ab</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Google Search</testCaseId>
+      <testCaseId>Test Cases/CURA Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
