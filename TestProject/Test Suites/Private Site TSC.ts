@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Private Site Test Suite</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Private Site Test Suite Rename</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
